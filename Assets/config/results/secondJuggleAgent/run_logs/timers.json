@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1619511460",
+        "python_version": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "H:\\Anaconda3\\Scripts\\mlagents-learn agent.yaml --run-id=firstJuggleAgent--resume",
+        "mlagents_version": "0.25.1",
+        "mlagents_envs_version": "0.25.1",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.19.2",
+        "end_time_seconds": "1619511522"
+    },
+    "total": 62.57653788500001,
+    "count": 1,
+    "self": 0.008058519000009312,
+    "children": {
+        "run_training.setup": {
+            "total": 0.3385934829999999,
+            "count": 1,
+            "self": 0.3385934829999999
+        },
+        "TrainerController.start_learning": {
+            "total": 62.229885883,
+            "count": 1,
+            "self": 0.0004551100000043107,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 62.228881213,
+                    "count": 1,
+                    "self": 62.228881213
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0005495599999960632,
+                    "count": 1,
+                    "self": 0.0005495599999960632
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "agent": {
+        "checkpoints": [
+            {
+                "steps": 15372,
+                "file_path": "results\\firstJuggleAgent\\agent\\agent-15372.onnx",
+                "reward": null,
+                "creation_time": 1619511373.0084155
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15372,
+            "file_path": "results\\firstJuggleAgent\\agent.onnx",
+            "reward": null,
+            "creation_time": 1619511373.0084155
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

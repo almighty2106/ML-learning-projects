@@ -1,0 +1,23 @@
+{
+    "agent": {
+        "checkpoints": [
+            {
+                "steps": 138718,
+                "file_path": "results\\FourthTime\\agent\\agent-138718.onnx",
+                "reward": 0.25,
+                "creation_time": 1620150293.114236
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 138718,
+            "file_path": "results\\FourthTime\\agent.onnx",
+            "reward": 0.25,
+            "creation_time": 1620150293.114236
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

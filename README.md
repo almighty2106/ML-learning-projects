@@ -14,6 +14,7 @@ The trainning model is in config/results
 
 To start the game. open up the the file "New Scence.unity" using Unity
 Train Scene is "Training scece.unity"
+
 There's only one scripts which located in "assets/scriipts" named "agent.cs" 
 "agent.yaml" contains basic parameters related to training
 

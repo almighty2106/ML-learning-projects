@@ -8,7 +8,7 @@ https://github.com/Unity-Technologies/ml-agents
 
 Project files are in "master" branch
 
-Trainning results are in "conig"
+Trainning results are in "config"
 
 The trainning model is in config/results
 

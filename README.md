@@ -7,6 +7,7 @@ Here's my final AI project using Unity, it's a soccer ball juggling simulator ag
 https://github.com/Unity-Technologies/ml-agents
 
 Project files are in "master" branch !!!!
+https://github.com/almighty2106/ML-learning-projects/tree/master
 
 Trainning results are in "assets/config".
 

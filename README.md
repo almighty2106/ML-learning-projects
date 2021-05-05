@@ -7,6 +7,7 @@ Here's my final AI project using Unity, it's a soccer ball juggling simulator ag
 https://github.com/Unity-Technologies/ml-agents
 
 Project files are in "master" branch
+
 Trainning results are in "conig"
 
 Thank you!

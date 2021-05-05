@@ -12,9 +12,9 @@ Trainning results are in "assets/config"
 
 The trainning model is in "assets/config/results"
 
-Train Scene is "assets/Training scece.unity"
+Train Scene is "assets/Training scene.unity"
 
-To start the game. open up the the file "New Scence.unity" using Unity
+To start the game. open up the the file "New Scene.unity" using Unity
 Drag the model that you want into "Behavior Parameters/model" component at the right side
 You can do this in the prefab page in this case all the agents will be replaced with this model
 

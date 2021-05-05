@@ -6,4 +6,4 @@ Here's my final AI project using Unity, it's a soccer ball juggling simulator ag
 
 https://github.com/Unity-Technologies/ml-agents
 
-Project is in "master branch"
+Project is in "master"

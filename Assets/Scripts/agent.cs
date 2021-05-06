@@ -108,7 +108,7 @@ public class agent : Agent
         var continuousActionsOut = actionsOut.ContinuousActions;
         continuousActionsOut[0] = Input.GetAxis("Horizontal");
         continuousActionsOut[1] = Input.GetAxis("Vertical");
-        //continuousActionsOut[2] = Input.GetAxis("Jump");
+        continuousActionsOut[2] = Input.GetAxis("Jump");
     }
 
 
